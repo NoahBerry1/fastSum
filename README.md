@@ -3,7 +3,7 @@
 ### This will put the output file in the same directory as the input file 
 ### The program takes .txt files.
 
-### Run Modes: 
+# Run Modes: 
 ### To run the program with a single thread with a short length summary:
 ### python3 fast_sum_final.py <your file name here> single short 
 ### To run the program with a single thread with a medium length summary:
