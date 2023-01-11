@@ -18,6 +18,3 @@
 ### To run the program with a multiple threads with a long summary:
 ### python3 fast_sum_final.py <your file name here> multi long 
 
-  
-# Warranty: 
-### use at your own risk lol. 
